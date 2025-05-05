@@ -45,4 +45,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-Created by [YourName](https://github.com/atishramkhe).
+Created by [Atish](https://github.com/atishramkhe).
