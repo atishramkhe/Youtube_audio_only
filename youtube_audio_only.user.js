@@ -1,15 +1,18 @@
 // ==UserScript==
-// @name         YouTube True Audio-Only (Perfect)
+// @name         YouTube Audio Only
 // @namespace    http://tampermonkey.net/
 // @version      4.1
-// @description  Audio-only with perfect UI alignment and bandwidth savings
+// @description  Audio-only mode with UI alignment (bandwidth savings coming soon)
 // @author       YourName
 // @match        https://www.youtube.com/*
 // @icon         https://www.youtube.com/favicon.ico
 // @grant        unsafeWindow
 // @grant        GM_addStyle
 // @run-at       document-idle
+// @updateURL    https://github.com/atishramkhe/Youtube-audio-only/raw/main/youtube_audio_only.user.js
+// @downloadURL  https://github.com/atishramkhe/Youtube-audio-only/raw/main/youtube_audio_only.user.js
 // ==/UserScript==
+
 
 (function() {
     'use strict';
